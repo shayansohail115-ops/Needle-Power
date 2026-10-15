@@ -1,0 +1,8 @@
+{
+  "name": "NEEDLE POWER - Luxury Balochi & Ethnic Pakistani Fashion",
+  "description": "NEEDLE POWER is a luxury Pakistani ethnic fashion brand specializing in authentic Balochi embroidered dresses, women's couture, girls' festive wear, and children's traditional fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
